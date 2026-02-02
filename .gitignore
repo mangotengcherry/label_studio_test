@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.gemini/
+labels.csv
+.DS_Store
